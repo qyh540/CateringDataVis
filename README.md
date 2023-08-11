@@ -1,6 +1,6 @@
 # CateringDataVis
 ## 简介
-绵阳餐饮数据可视化系统前端部分，将[原项目](https://github.com/Liquorice10113/Vis)使用Vue3和element-plus复现，实现前后端分离
+绵阳餐饮数据可视化系统前端部分，将[原项目](https://github.com/Liquorice10113/Vis)使用Vue3和element-plus复现，实现前后端分离，混小组作业使用。
 ## 本地运行
 
 ```shell
